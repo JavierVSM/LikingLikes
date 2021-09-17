@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 20px;
+    border: black 2px solid;
+    width: 400px;
+    padding: 20px;
+}
+
+h1{
+    font-size: large;
+}
+
+.upline {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.btn{
+    text-align:center;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(231, 199, 55);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    font-weight: bold;
+    margin-top: 20px;
+}
